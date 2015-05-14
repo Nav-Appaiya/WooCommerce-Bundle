@@ -1,0 +1,11 @@
+{
+    "name": "nav/woo-bundle",
+    "description": "Talking to the WC REST API with Symfony2",
+    "authors": [
+        {
+            "name": "Nav Appaiya",
+            "email": "navarajh@gmail.com"
+        }
+    ],
+    "require": {}
+}

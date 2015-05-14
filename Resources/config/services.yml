@@ -1,0 +1,4 @@
+services:
+    nav_woo.client:
+        class: Nav\WooBundle\Client\WooClient
+        arguments: [%woo_shop%, %woo_key%, %woo_secret%]

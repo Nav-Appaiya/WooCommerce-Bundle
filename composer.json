@@ -7,5 +7,7 @@
             "email": "navarajh@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+      "afurculita/woocommerce-api-client": "0.3.*@dev"
+    }
 }

@@ -1,0 +1,66 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "9d68f36d880151e4ad2ca403da69107d",
+    "packages": [
+        {
+            "name": "afurculita/woocommerce-api-client",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/afurculita/woocommerce-api-client.git",
+                "reference": "b9ed6911a169704e335625b42ce60df099099a49"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/afurculita/woocommerce-api-client/zipball/b9ed6911a169704e335625b42ce60df099099a49",
+                "reference": "b9ed6911a169704e335625b42ce60df099099a49",
+                "shasum": ""
+            },
+            "type": "project",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "v0.3.x-dev"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "src/WC/API/Client.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPLv3"
+            ],
+            "authors": [
+                {
+                    "name": "Alexandru Furculita",
+                    "email": "alex@rhetina.com",
+                    "homepage": "https://github.com/afurculita/",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Gerhard Potgieter",
+                    "homepage": "https://github.com/kloon/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Woocommerce Rest API client",
+            "homepage": "https://github.com/afurculita/woocommerce-api-client/",
+            "time": "2014-06-06 12:38:57"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "afurculita/woocommerce-api-client": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -8,7 +8,9 @@ Gerhard Potgieter (https://github.com/kloon/WooCommerce-REST-API-Client-Library)
 
 # Installation
 1. Clone or download this bundle
-2. Enable
+2. Enable the bundle in app/AppKernel.php
+
+
 
 
 

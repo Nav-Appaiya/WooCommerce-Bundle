@@ -1,9 +1,11 @@
 WooCommerce REST API V2 Bundle
 ===
 
-Gives you a service container for your WC-API REST V2 calls to
-your WooCommerce Webshop. Please referer to the original library 
-for usage and options.
+Gives you a WC_CLIENT to work with the REST API V2 of
+your woocommerce webshop. 
+
+Please note that you will need a API_KEY and API_SECRET in order to use this bundle.
+Also don't forget to enable the pretty Permalinks for the WC-API endpoints to work.
 
 About
 -------------

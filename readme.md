@@ -1,6 +1,5 @@
-A WC-API API V2 Bundle for Symfony2
+WooCommerce REST API V2 Bundle
 ===
-
 About
 -------------
 - WooCommerce REST API v2 Bundle for in your Symfony2 Projects.
@@ -41,7 +40,9 @@ Use it as a service by calling:
 For more examples and usage please see the examples given in
 WooBundle/Client/example/example.php
 
-
+Credits original library:
+Copyright (c) 2013-2014 - Gerhard Potgieter, Max Rice and other contributors
+https://github.com/kloon/WooCommerce-REST-API-Client-Library
     
     
     

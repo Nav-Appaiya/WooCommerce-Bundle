@@ -1,5 +1,10 @@
 WooCommerce REST API V2 Bundle
 ===
+
+Gives you a service container for your WC-API REST V2 calls to
+your WooCommerce Webshop. Please referer to the original library 
+for usage and options.
+
 About
 -------------
 - WooCommerce REST API v2 Bundle for in your Symfony2 Projects.

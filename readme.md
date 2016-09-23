@@ -2,7 +2,8 @@ WooCommerce REST API V2 Bundle
 ===
 
 September 2016 Nav Note: 
-**This bundle is currently not maintained or used, so please use this bundle on your own risk.**
+
+`This bundle is currently not maintained or used, so please use this bundle on your own risk.`
 
 
 Gives you a WC_CLIENT to work with the REST API V2 of
